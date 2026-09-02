@@ -1,0 +1,19 @@
+# Datos (no subir por tamaño)
+*.sqlite
+*.csv
+*.db
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env
+
+# CatBoost
+catboost_info/
+
+# Sistema
+.DS_Store
+Thumbs.db

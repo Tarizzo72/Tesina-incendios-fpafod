@@ -191,7 +191,7 @@ sub-reporte, que sí resultó predecible con las variables disponibles.
 ## Referencias
 
 - Short, K. C. (2017). *Spatial wildfire occurrence data for the United States, 1992–2015
-  [FPA_FOD_20170508]* (4ª ed.). Fort Collins, CO: Forest Service Research Data Archive.
+  [FPA_FOD_20170508]* (4ª ed.). Fort Collins, CO: Forest Service Research Data Archive. https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005187
 - Pourmohamad, Y., Abatzoglou, J. T., Fleishman, E., Short, K. C., Shuman, J., AghaKouchak,
   A., Williamson, M., Seydi, S. T., & Sadegh, M. (2025). Inference of wildfire causes from
   their physical, biological, social and management attributes. *Earth's Future*, 13(1).

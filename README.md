@@ -89,12 +89,12 @@ acertar en la clase mayoritaria.
 
 ## Resultados
 
-| Métrica | Resultado | Referencia (azar) |
+| Métrica | Resultado |
 |---|---|---|
-| AUC-ROC | 0,8306 | 0,500 |
-| AUC-PR | 0,4282 | 0,089 |
+| AUC-ROC | 0,8306 | 
+| AUC-PR | 0,4282 |
 
-El AUC-PR mejora aproximadamente **4,8x** sobre el azar.
+
 
 **Umbral de decisión.** Se evaluaron distintos puntos de corte en lugar del 0,5 por defecto:
 

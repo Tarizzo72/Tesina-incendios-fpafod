@@ -90,7 +90,7 @@ acertar en la clase mayoritaria.
 ## Resultados
 
 | Métrica | Resultado |
-|---|---|---|
+|---|---|
 | AUC-ROC | 0,8306 | 
 | AUC-PR | 0,4282 |
 
